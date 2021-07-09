@@ -23,6 +23,7 @@ const Tabs = () => {
         height: 100
       }
     }}>
+
       <Tab.Screen 
       name="Home" 
       component={Home}  
